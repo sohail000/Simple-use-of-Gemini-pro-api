@@ -44,7 +44,7 @@ Project1/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/gemini-chat.git
+git clone [https://github.com/yourusername/gemini-chat.git](https://github.com/sohail000/Simple-use-of-Gemini-pro-api.git)
 cd gemini-chat
 ```
 
@@ -114,7 +114,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Your Name - [Your Email/GitHub Profile]
 
-Project Link: [https://github.com/yourusername/gemini-chat](https://github.com/yourusername/gemini-chat)
+Project Link: [[https://github.com/yourusername/gemini-chat](https://github.com/yourusername/gemini-chat](https://github.com/sohail000/Simple-use-of-Gemini-pro-api.git))
 
 ---
 ⭐ If you find this project helpful, don't forget to give it a star!
